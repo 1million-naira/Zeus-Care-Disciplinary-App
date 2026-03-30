@@ -1,3 +1,12 @@
+# Welcome screen
+
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 03 57" src="https://github.com/user-attachments/assets/acc98f56-3423-4bb6-bc42-6f78e62c61ee" />
+
+
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
