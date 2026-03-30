@@ -8,20 +8,20 @@
 <img width="400" height="1000" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 13 34" src="https://github.com/user-attachments/assets/33799672-5f75-4bab-8a36-de47fe76412b" />
 
 ## Filter incidents
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 14 18" src="https://github.com/user-attachments/assets/8533d08f-2d33-401f-a91a-8b8f8815e5ae" />
+<img width="400" height="1000" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 14 18" src="https://github.com/user-attachments/assets/8533d08f-2d33-401f-a91a-8b8f8815e5ae" />
 
 
 ## Admin ations screen
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 15 15" src="https://github.com/user-attachments/assets/7c36b02d-c361-4271-96fa-115317307502" />
+<img width="400" height="1000" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 15 15" src="https://github.com/user-attachments/assets/7c36b02d-c361-4271-96fa-115317307502" />
 
 ## Report an incident
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 16 37" src="https://github.com/user-attachments/assets/de1a44c3-f476-4890-9573-029e7bdd0103" />
+<img width="400" height="1000" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 16 37" src="https://github.com/user-attachments/assets/de1a44c3-f476-4890-9573-029e7bdd0103" />
 
 ## Add involved to incidents
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 17 40" src="https://github.com/user-attachments/assets/5abab705-278f-4149-a3df-d8ffbc1883ea" />
+<img width="400" height="1000" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 17 40" src="https://github.com/user-attachments/assets/5abab705-278f-4149-a3df-d8ffbc1883ea" />
 
 ## Settings screen
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 18 44" src="https://github.com/user-attachments/assets/5d6642e6-7549-456a-951c-b221cf68d2cb" />
+<img width="400" height="1000" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 18 44" src="https://github.com/user-attachments/assets/5d6642e6-7549-456a-951c-b221cf68d2cb" />
 
 
 # Welcome to your Expo app 👋
