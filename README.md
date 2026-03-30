@@ -18,7 +18,7 @@
 <img width="400" height="1000" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 16 37" src="https://github.com/user-attachments/assets/de1a44c3-f476-4890-9573-029e7bdd0103" />
 
 ## Add involved to incidents
-<img width="400" height="1000" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 17 40" src="https://github.com/user-attachments/assets/5abab705-278f-4149-a3df-d8ffbc1883ea" />
+<img width="400" height="1000" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 26 29" src="https://github.com/user-attachments/assets/f0d3418d-d999-4913-99fc-8b6a1f298002" />
 
 ## Settings screen
 <img width="400" height="1000" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 18 44" src="https://github.com/user-attachments/assets/5d6642e6-7549-456a-951c-b221cf68d2cb" />
