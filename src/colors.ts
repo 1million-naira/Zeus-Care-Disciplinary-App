@@ -1,0 +1,22 @@
+export const COLORS = {
+    main: '#DFDBE9',
+    complementary: '#E5E9DB',
+    mono: '#C3BBD6',
+    analogous1: '#E6DBE9',
+    analogous2: '#DBDEE9',
+    tetradic1: '#E9DBDE',
+    text1: 'rgb(74, 70, 81)',
+    text2: '#5f5d62ff',
+    text3: '#a3a1a5ff',
+    background: '#f4f4f4',
+    favourite: '#FFFFFF',
+    icon: '#8441dbff',
+    icon2: '#8441dbff',
+    buttonPrimary: 'rgb(161, 119, 216)',
+    buttonSecondary: '#9f8db8',
+    lightPurple: '#d6d0da',
+    buttonText: '#ffffff',
+    placeholder: '#9A94B0',
+    inputBackground: '#f0f0f0',
+    inputBorder: '#e2e2e2'
+}

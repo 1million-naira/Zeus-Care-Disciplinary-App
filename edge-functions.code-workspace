@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "name": "project-root",
+      "path": "./"
+    },
+    {
+      "name": "expo-app",
+      "path": "app"
+    },
+
+    {
+      "name": "source",
+      "path": "src"
+    },
+
+    {
+      "name": "hooks",
+      "path": "hooks"
+    },
+    {
+      "name": "supabase-functions",
+      "path": "supabase/functions"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "node_modules/": true,
+      "app/": true,
+      "supabase/functions/": true
+    },
+    "deno.enable": false
+  }
+}
