@@ -1,6 +1,6 @@
-# Welcome screen
+## Welcome screen
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 03 57" src="https://github.com/user-attachments/assets/acc98f56-3423-4bb6-bc42-6f78e62c61ee" />
+<img width="400" height="1000" alt="Simulator Screenshot - iPhone 17 - 2026-03-30 at 23 03 57" src="https://github.com/user-attachments/assets/acc98f56-3423-4bb6-bc42-6f78e62c61ee" />
 
 
 
